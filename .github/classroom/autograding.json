@@ -1,0 +1,184 @@
+{
+  "tests": [
+    {
+      "name": "test_creation",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_creation\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_get_size",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_get_size\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_invalid_size",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_invalid_size\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_get_burning_time",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_get_burning_time\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_invalid_burning_time",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_invalid_burning_time\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_burn_does_not_raise_error",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_burn_does_not_raise_error\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_creation",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_creation\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_get_name",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_get_name\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_eq",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_eq\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_str",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_str\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_add_employee",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_add_employee\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_add_employee_twice_has_no_effect",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_add_employee_twice_has_no_effect\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_creation",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_creation\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_get_name",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_get_name\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_eq",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_eq\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_str",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_str\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_add_deparment",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_add_deparment\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_add_deparment_twice_has_no_effect",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -v  -k \"test_add_deparment_twice_has_no_effect\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
